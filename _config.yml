@@ -1,7 +1,7 @@
 # Basic
 title: Cathy
-subtitle: iOS开发技术博客。
 
+description: iOS开发技术博客。
 
 # Format
 highlighter: rouge
@@ -27,8 +27,8 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
+    weibo: 遥远de年代
+    github: cathy
     mail: 463833124@qq.com
 
 # Google Analytics
